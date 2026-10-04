@@ -14,7 +14,7 @@ Hi, I'm ABHINAND N R, a Full Stack Developer passionate about building scalable 
 
 🚀 Currently
 
-💼 Junior Software Developer
+💼 FullStack Developer
 
 🌱 Learning AI, Cloud & System Design
 
